@@ -28,7 +28,7 @@ Dashboard:
 
 Categories List:
 
-![image](https://github.com/Aquib2002/Wallet-Buddy/assets/151020890/4181ac80-2589-4ca0-b22a-ab68e730cea1)
+![image](https://github.com/Aquib2002/Wallet-Buddy/assets/151020890/b639bc03-b655-4d4f-a514-047ccfff6819)
 
 Adding Page of New Category:
 
@@ -41,6 +41,12 @@ Transaction List:
 Adding New Transaction;
 
 ![image](https://github.com/Aquib2002/Wallet-Buddy/assets/151020890/9923ee23-4b57-424b-9723-9e4a68c209b6)
+
+Category Populated as Dropdown List in Transaction Form to Select Transaction Category Type:
+
+
+![image](https://github.com/Aquib2002/Wallet-Buddy/assets/151020890/03dedc69-4978-4d87-b398-854df7e662af)
+
 
 
 
